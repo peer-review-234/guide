@@ -52,8 +52,9 @@ Before using this tool, ensure that your Spring Boot project meets the following
 
 On the main page of the web application, you will be asked to fill out the following fields:
 
-
-1. **Git URL of the project** – Provide the Git URL for the Spring Boot project. Make sure the project includes the `spring-boot-starter-test` dependency.
+1. **Name** – Enter your name (Some random name). - optional
+2. **Email** – Enter your email address(Make a dummy email). -optional (to recieve the generated tests in email)
+3. **Git URL of the project** – Provide the Git URL for the Spring Boot project. Make sure the project includes the `spring-boot-starter-test` dependency.
 
 Click the **"Send"** button to proceed to the next step.
 
@@ -88,6 +89,8 @@ Once you've confirmed everything is correct, click the **"Start"** button to ini
 ## Notification & Download
 
 After you start the process, a notification will appear on the page:
+
+> **If you didn't provide your email, just wait there for few minutes(depending on the class size) untill you see a button to download your generated tests as a zip file**
 
 > **The generation process has started successfully. You will receive an email with the link to download the project containing the JUnit tests created through this tool. Save the following link to download the generated code: "http://link"**
 
