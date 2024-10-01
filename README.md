@@ -1,3 +1,6 @@
+# Note : It will only work from 7:00 am GMT to 9:00 pm GMT, as the servers on which it is running are off during night
+
+
 # Automated JUnit Test Generator: Innovative Testing Solutions for Java
 
 Welcome to the **Automated JUnit Test Generator** web application! This tool is designed to simplify and automate the process of generating JUnit test cases for Java projects, especially for Spring Boot applications. The generator will create structured and robust test cases, saving you time and effort in writing them manually.
@@ -91,7 +94,7 @@ Once you've confirmed everything is correct, click the **"Start"** button to ini
 
 After you start the process, a notification will appear on the page:
 
-> **If you didn't provide your email, just wait there for few minutes(depending on the class size) untill you see a button to download your generated tests as a zip file**
+> **If you didn't provide your email, click on the button OPEN RESULT and just wait there for few minutes(depending on the class size) untill you see a button to download your generated tests as a zip file**
 
 > **The generation process has started successfully. You will receive an email with the link to download the project containing the JUnit tests created through this tool. Save the following link to download the generated code: "http://link"**
 
