@@ -52,8 +52,9 @@ Before using this tool, ensure that your Spring Boot project meets the following
 
 On the main page of the web application, you will be asked to fill out the following fields:
 
-1. **Name** – Enter your name (Some random name). - optional
-2. **Email** – Enter your email address(Make a dummy email). -optional (to recieve the generated tests in email)
+1. **Name** – Enter your name (Some random name). - optional 
+2. **Email** – Enter your email address(Make a temporary anonymous email https://internxt.com/it/temporary-email
+). -optional (to recieve the generated tests in email)
 3. **Git URL of the project** – Provide the Git URL for the Spring Boot project. Make sure the project includes the `spring-boot-starter-test` dependency.
 
 Click the **"Send"** button to proceed to the next step.
