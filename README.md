@@ -1,4 +1,4 @@
-# Note : It will only work from 7:00 am GMT to 9:00 pm GMT, as the servers on which it is running are off during night
+# IMPORTANT: CUBE_TESTER_AI will only be available from 7:00 am GMT to 9:00 pm GMT
 
 
 # Automated JUnit Test Generator: Innovative Testing Solutions for Java
